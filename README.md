@@ -1,5 +1,8 @@
 # Contents
 
+## Arrays 101 (Fun)
+
+
 ## Arrays and Strings
 
 1. Introduction to Array
